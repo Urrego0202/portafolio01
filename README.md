@@ -49,3 +49,32 @@ Las cards con "Próximo proyecto" se reemplazan automáticamente.
 ---
 
 ## 📁 Estructura
+
+```
+src/
+├── App.jsx
+├── index.css              ← todos los estilos
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Perfil.jsx
+│   ├── Projects.jsx       ← card grande + grilla
+│   ├── Skills.jsx
+│   ├── Experience.jsx
+│   ├── Education.jsx
+│   └── Contact.jsx
+└── data/
+    ├── projects.js        ← agrega proyectos aquí
+    ├── skills.js          ← agrega tecnologías aquí
+    └── experience.js      ← agrega experiencia aquí
+```
+
+---
+
+## 🌐 Publicar gratis
+
+```bash
+npm run build
+```
+
+Sube la carpeta `dist/` a [Vercel](https://vercel.com), [Netlify](https://netlify.com) o GitHub Pages.
