@@ -76,5 +76,3 @@ src/
 ```bash
 npm run build
 ```
-
-Sube la carpeta `dist/` a [Vercel](https://vercel.com), [Netlify](https://netlify.com) o GitHub Pages.
