@@ -27,7 +27,7 @@ export const projects = [
     stack: ['PHP', 'Laravel', 'PostgreSQL', 'React'],
     githubUrl: 'https://github.com/Urrego0202',
     demoUrl: 'https://github.com/Urrego0202',
-    imageUrl: 'public/img/imgERPTickets.png',
+    imageUrl: '/img/imgERPTickets.png',
   },
 
 
