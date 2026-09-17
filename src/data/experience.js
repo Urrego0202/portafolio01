@@ -6,7 +6,7 @@
 export const experiences = [
   {
     id: 'emtelco',
-    period: '2025 — actualidad',
+    period: '2025 — 2026',
     title: 'Soporte Técnico Nivel 2',
     org: 'EMTELCO · Tigo',
     bullets: [

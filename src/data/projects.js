@@ -14,7 +14,7 @@ export const projects = [
   {
     id: 'helpdesk-erp',
     featured: true,
-    tag: 'proyecto principal',
+    tag: 'Proyecto principal',
     title: 'ERP de Gestión de Tickets',
     description:
       'Sistema end-to-end para la creación, asignación y trazabilidad de solicitudes de soporte, desarrollado desde el levantamiento de requerimientos hasta la integración completa de frontend y backend.',
@@ -27,7 +27,7 @@ export const projects = [
     stack: ['PHP', 'Laravel', 'PostgreSQL', 'React'],
     githubUrl: 'https://github.com/Urrego0202',
     demoUrl: 'https://github.com/Urrego0202',
-    imageUrl: '/img/images.jpg',
+    imageUrl: 'public/img/imgERPTickets.png',
   },
 
 
